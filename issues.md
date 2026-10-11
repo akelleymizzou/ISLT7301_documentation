@@ -4,7 +4,7 @@ Table columns are divided by "|", so to add to a column, find the space between 
 
 |Software Element|Issue/Explanation|Suggested type|Documenters|Documentation Link|
 |----|----|----|----|----|
-|Wordpress|"mysterious" issues on the VM side, or site site not loading. We suspect these are related to the memory available for the micro E2 instance, seems fixed when using an E2 small instance.|*explanation?*| Mia Hodgson |https://github.com/hodgsonreads/7301Fall2026Documentation/blob/main/Wordpress-%20%22mysterious%22%20issues%20on%20the%20VM%20Side  |
+|Wordpress|"mysterious" issues on the VM side, or site site not loading. We suspect these are related to the memory available for the micro E2 instance, seems fixed when using an E2 small instance.|*explanation?*| Mia Hodgson |Wordpress- "mysterious" issues on the VM Side  |
 |Wordpress|rendering as PHP code in the browser|*how-to*|  |
 |Wordpress|reverting back to an old IP address when I go to the admin login page|*how-to*| |  |
 |Wordpress|Remove and reinstall Wordpress|Tutorial|Gracie Morris|[Remove and Reinstall Wordpress]|
