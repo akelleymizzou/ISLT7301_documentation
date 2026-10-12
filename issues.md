@@ -26,5 +26,5 @@ Table columns are divided by "|", so to add to a column, find the space between 
 |GCloud | | | | |
 |Nano|Effective use|*reference/cheat sheet*|Owen Vandeloecht | |
 |grep| |*reference/cheat sheet*| | |
-
+|Wordpress 403 Forbidden Error| *reference* | Elisabeth Iacono | [Wordpress Errors]
 
