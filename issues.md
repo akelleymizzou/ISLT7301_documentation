@@ -28,4 +28,4 @@ Table columns are divided by "|", so to add to a column, find the space between 
 |grep| |*reference/cheat sheet*| | |
 |Wordpress 403 Forbidden Error| issue with Wordpress permissions and changing IP addresses | *reference/cheat sheet* | Elisabeth Iacono | [Wordpress Errors]
 |GitHub/Nano|Pushing files to GitHub Repo| |Ginny H|
-|VM/MySQL | VM crashed, which killed my IP in MySQL to get Wordpress to work | troubleshooting | Allison Kelley ||
+|VM/MySQL | VM crashed, which killed my IP in MySQL to get Wordpress to work | troubleshooting | Allison Kelley | -|
