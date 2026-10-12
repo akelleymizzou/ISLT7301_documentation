@@ -1,0 +1,8 @@
+Adding Omeka in the VM
+
+I ran into an error with Omeka when I was trying to install it. 
+After setting everything up in Omeka and attempting to do the webpage portion, I was receiving an error page with no number just saying "Omeka has encountered an error". 
+I thought I had perhaps set up my permissions incorrectly at first, but everything looked correct there. 
+I had to go back and make a new copy of my db.ini file because I had been editing the copied version and I needed to edit the db.ini file. 
+Omeka runs the db.ini file, not the copied version that we make. Definitely an ah-ha kind of moment for me. 
+After I did that, everything started right up on Omeka. 
